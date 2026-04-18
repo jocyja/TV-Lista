@@ -15,7 +15,7 @@ https://cdn.mediaklikk.org:2082/spektrumhome_00gNyEzM5gTM.m3u8
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 label="Dragonhall" tvg-name="Dragonhall+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.b3f75HyoH2Sek-P1LzQ6YQAAAA?pid=Api&P=0&h=180" tvg-id="tv.dragonhall.hu" tvg-country="HU" group-title="Magyar TV",Dragonhall+
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
-#EXTINF:-1 label="Dun" tvg-name="Duna TV" tvg-logo="https://logos.fandom.com/wiki/M1_(Hungary)?file=M1_tv_hungary_2020.svg" tvg-id="M1" tvg-country="HU" group-title="Magyar TV",M1
+#EXTINF:-1 label="M1" tvg-name="M1" tvg-logo="https://logos.fandom.com/wiki/M1_(Hungary)?file=M1_tv_hungary_2020.svg" tvg-id="M1" tvg-country="HU" group-title="Magyar TV",M1
 https://youtu.be/NTwyipJrdPM
 #EXTINF:-1 label="Dun" tvg-name="Duna TV" tvg-logo="https://i.imgur.com/oPbsSlp.png" tvg-id="Duna.hu" tvg-country="HU" group-title="Magyar TV",Duna TV
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
