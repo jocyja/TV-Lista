@@ -4,15 +4,15 @@
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="https://online-radio.hu/wp-content/uploads/2023/02/oxygen-music.png" tvg-id="" tvg-country="HU" group-title="Magyar TV",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 label="TV2" tvg-name="TV2" tvg-logo="https://media.port.hu/images/001/707/100x100/231.jpg" tvg-id="tv2.hu" tvg-country="HU" group-title="Magyar TV",TV2
-https://cdn.mediaklikk.org:2082/tv2_0YjMxMjNxcTM.m3u8
+https://cdn.mediaklikk.org:2082/tv2_00gNyEzM5gTM.m3u8
 #EXTINF:-1 tvg-id="RTL (HD).hu" label="RTL" tvg-name="RTL (HD).hu" tvg-logo="https://images.seeklogo.com/logo-png/44/1/rtl-magyarorszag-2022-logo-png_seeklogo-449807.png" tvg-country="HU" group-title="Magyar TV",RTL
-https://cdn.mediaklikk.org:2082/rtl_0YjMxMjNxcTM.m3u8
+https://cdn.mediaklikk.org:2082/rtl_00gNyEzM5gTM.m3u8
 #EXTINF:-1 tvg-id="Max4.hu" tvg-name="Max4" tvg-logo="https://onlinestat.hu/logos/1948.png" tvg-country="HU" group-title="Magyar TV",Max 4
-https://cdn.mediaklikk.org:2082/max4_0YjMxMjNxcTM.m3u8
+https://cdn.mediaklikk.org:2082/max4_00gNyEzM5gTM.m3u8
 #EXTINF:-1 tvg-id="m4.hu" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.g_8mBFoiA3ouqFS5_cYdlwHaHa?pid=Api&P=0&h=180" tvg-country="HU" group-title="Magyar TV",M4 Sport
-https://cdn.mediaklikk.org:2082/m4_0YjMxMjNxcTM.m3u8
+https://cdn.mediaklikk.org:2082/m4_00gNyEzM5gTM.m3u8
 #EXTINF:-1 label="Spektrum Home" tvg-name="Spektrum Home" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.YtFpOAGWwIvf7qCYqScXnwHaEK?pid=Api&P=0&h=180" tvg-id="Spektrum.Home.hu" tvg-country="HU" group-title="Magyar TV",Spektrum Home
-https://cdn.mediaklikk.org:2082/spektrumhome_0YjMxMjNxcTM.m3u8
+https://cdn.mediaklikk.org:2082/spektrumhome_00gNyEzM5gTM.m3u8
 #EXTINF:-1 label="Dragonhall" tvg-name="Dragonhall+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.b3f75HyoH2Sek-P1LzQ6YQAAAA?pid=Api&P=0&h=180" tvg-id="tv.dragonhall.hu" tvg-country="HU" group-title="Magyar TV",Dragonhall+
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1 label="Dun" tvg-name="Duna TV" tvg-logo="https://i.imgur.com/oPbsSlp.png" tvg-id="Duna.hu" tvg-country="HU" group-title="Magyar TV",Duna TV
