@@ -4,7 +4,7 @@
 #EXTINF:-1 label="TV2" tvg-name="TV2" tvg-logo="https://media.port.hu/images/001/707/100x100/231.jpg" tvg-id="tv2.hu" tvg-country="HU" group-title="Magyar TV",TV2
 https://cdn.mediaklikk.org:2082/tv2_OYjMxUDOxATM.m3u8
 #EXTINF:-1 tvg-id="RTL (HD).hu" label="RTL" tvg-name="RTL (HD).hu" tvg-logo="https://images.seeklogo.com/logo-png/44/1/rtl-magyarorszag-2022-logo-png_seeklogo-449807.png" tvg-country="HU" group-title="Magyar TV",RTL
-https://cdn.mediaklikk.org:2082/rtl_OYjMxUDOxATM.m3u8
+https://cdn.mediaklikk.org:2082/rtl_0YjMxUDOxATM.m3u8
 #EXTINF:-1 tvg-id="Max4.hu" tvg-name="Max4" tvg-logo="https://onlinestat.hu/logos/1948.png" tvg-country="HU" group-title="Magyar TV",Max 4
 https://cdn.mediaklikk.org:2082/max4_OYjMxUDOxATM.m3u8
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="https://online-radio.hu/wp-content/uploads/2023/02/oxygen-music.png" tvg-id="" tvg-country="HU" group-title="Magyar TV",Oxygen Music
