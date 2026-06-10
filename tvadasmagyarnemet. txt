@@ -77,6 +77,8 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Eger.hu" tvg-name="TV Eger.hu" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="Városi TV",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-id="KarcagTV.hu" tvg-logo="https://jttv.hu/themes/jttv_2017/img/logo_new.png" group-title="Városi TV",Jászsági TV
+https://cloudfront41.lexanetwork.com:1344/relay41_1/livestream001.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KarcagTV.hu" tvg-logo="https://i.imgur.com/QcrVj3Q.png" group-title="Városi TV",Karcag TV
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKeszthely.hu" tvg-logo="https://i.imgur.com/2LE8xSW.png" group-title="Városi TV",TV Keszthely
