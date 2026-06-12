@@ -15,11 +15,11 @@ http://46.149.191.217:9005/play/a01r
 http://46.149.191.217:9005/play/a01t
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="https://online-radio.hu/wp-content/uploads/2023/02/oxygen-music.png" tvg-id="" tvg-country="HU" group-title="Magyar TV",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-id="M2.hu@SD" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Magyar TV",M2
+#EXTINF:-1 tvg-id="m2.HD.hu" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Magyar TV",M2
 http://46.149.191.217:9005/play/a016
 #EXTINF:-1 tvg-id="m4.hu" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.g_8mBFoiA3ouqFS5_cYdlwHaHa?pid=Api&P=0&h=180" tvg-country="HU" group-title="Magyar TV",M4 Sport
 https://cdn.mediaklikk.org:2082/m4_00gNyETN4ITM.m3u8
-#EXTINF:-1 tvg-id="m5.hu" tvg-logo="hhttps://i.imgur.com/y21wFd0.png" group-title="Magyar TV",M5
+#EXTINF:-1 tvg-id="m5.hu" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Magyar TV",M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 label="Spektrum Home" tvg-name="Spektrum Home" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.YtFpOAGWwIvf7qCYqScXnwHaEK?pid=Api&P=0&h=180" tvg-id="Spektrum.Home.hu" tvg-country="HU" group-title="Magyar TV",Spektrum Home
 https://cdn.mediaklikk.org:2082/spektrumhome_00gNyETN4ITM.m3u8
@@ -111,7 +111,7 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 tvg-id="DTV.hu" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="Városi TV",DebrecenTV [Not 24/7]
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SzolnokTV.hu@SD" tvg-logo="https://i.imgur.com/Eiab9MP.png" group-title="Hungarian",Szolnok TV
+#EXTINF:-1 tvg-id="SzolnokTV.hu@SD" tvg-logo="https://i.imgur.com/Eiab9MP.png" group-title="Városi TV",Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Eger.hu" tvg-name="TV Eger.hu" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="Városi TV",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
