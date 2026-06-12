@@ -123,6 +123,8 @@ https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mp
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.mtw7pyD2YrzMDkf20iTQJwHaC1?pid=Api&P=0&h=180" group-title="Olasz",nove HD  
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+#EXTINF:-1 tvg-id="kiss kiss Napoli" tvg-logo="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png" group-title="Olasz",Kiss Kiss Napoli
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.0TvmXs4QKNb0dpLXL6SPZgHaE9?pid=Api&P=0&h=180" group-title="Francia",travelxp
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 
