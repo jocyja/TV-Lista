@@ -55,10 +55,22 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Zene" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s"  group-title="Zene"  tvg-logo="https://i.postimg.cc/63nJwpZ8/now80s.png" group-title="music",that's 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Zene" ,Movie Music by STINGRAY HD
+https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Zene" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="deluxemusic.de" group-title="Zene" ,DELUXE DANCE HD7
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Német" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="Német",Bild TV HD
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 group-title="Német",Auto Bild HD
+https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 group-title="Német",N24 Doku HD
+https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="Német",Niederbayern TV
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
 #EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Német" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
@@ -103,6 +115,8 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 #EXTINF:-1 tvg-id="Duna.hu@SD" tvg-logo="https://30a-tv.com/30a/wp-content/uploads/2016/05/30atvlogoapril2016-512.png"group-title="Angol",30A TV
 http://30a-tv.com/my999.m3u8
+#EXTINF:-1 "group-title="Angol",CGTN DOCUMENTARY FHD
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Német",Rakuten TV Action Movies Germany
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Zene",4 Fun TV (288p) [Not 24/7]
@@ -115,6 +129,8 @@ https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-id="Film4" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.beZFaY8AkirOd3ViHgHdgAAAAA?pid=Api&P=0&h=180" group-title="Angol",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+#EXTINF:-1 group-title="Angol",Euronews. english HD #EXTREM
+https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/49/1/tvri-logo-png_seeklogo-496459.png" group-title="Román",TVRomania
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:-1 tvg-id="Food.Network.hu" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.tkv4K8oX0hkKp-4LY-59igHaEK?pid=Api&P=0&h=180" group-title="Angol",Food Network
