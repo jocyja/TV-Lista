@@ -63,7 +63,7 @@ https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd
 https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
 #EXTINF:-1 tvg-name="tv.ingolstadt" tvg-id="tvingolstadt.de" group-title="Német" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvingolstadt.png",tv.ingolstadt
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="daserste.de" group-title="Német" tvg-logo="https://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-facebook1200_d5fe7a.jpg",Das Erste
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="Das.Erste.de" group-title="Német" tvg-logo="https://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-facebook1200_d5fe7a.jpg",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" group-title="Német" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.3owimM43_M4o1eVz2vGyZQHaEK?pid=Api&P=0&h=180",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
