@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://github.com/globetvapp/epg/blob/main/Hungary/hungary1.xml.gz"
+#EXTM3U x-tvg-url="http://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz"
 #PLAYLIST:TV Es Radio adasok
 
 #EXTINF:-1 label="TV2" tvg-name="TV2" tvg-logo="https://media.port.hu/images/001/707/100x100/231.jpg" tvg-id="tv2.hu" tvg-country="HU" group-title="Magyar TV",TV2
@@ -8,7 +8,7 @@ http://46.149.191.217:9005/play/a018
 #EXTINF:-1 tvg-id="HIR.TV.hu" tvg-logo="https://i.imgur.com/xmIUDRN.png" group-title="Magyar TV",Hir TV
 https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 #EXTINF:-1 tvg-id="Max4.hu" tvg-name="Max4" tvg-logo="https://onlinestat.hu/logos/1948.png" tvg-country="HU" group-title="Magyar TV",Max 4
-https://cdn.mediaklikk.org:2082/max4_0YjMxUjMyMTM.m3u8
+https://cdn.mediaklikk.org:2082/max4_00gNyETN4UTM.m3u8
 #EXTINF:-1 tvg-id="RTL.KETTŐ.hu" tvg-logo="https://i.imgur.com/IVv0qrI.png" group-title="Magyar TV",RTL Ketto
 http://46.149.191.217:9005/play/a01r
 #EXTINF:-1 tvg-id="RTL.HÁROM.hu" tvg-logo="https://i.imgur.com/c4Hhhzs.png" group-title="Magyar TV",RTL Harom
@@ -18,11 +18,11 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="m2.HD.hu" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Magyar TV",M2
 http://46.149.191.217:9005/play/a021
 #EXTINF:-1 tvg-id="m4.hu" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.g_8mBFoiA3ouqFS5_cYdlwHaHa?pid=Api&P=0&h=180" tvg-country="HU" group-title="Magyar TV",M4 Sport
-https://cdn.mediaklikk.org:2082/m4_0YjMxUjMyMTM.m3u8
+https://cdn.mediaklikk.org:2082/m4_00gNyETN4UTM.m3u8
 #EXTINF:-1 tvg-id="m5.hu" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Magyar TV",M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 label="Spektrum Home" tvg-name="Spektrum Home" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.YtFpOAGWwIvf7qCYqScXnwHaEK?pid=Api&P=0&h=180" tvg-id="Spektrum.Home.hu" tvg-country="HU" group-title="Magyar TV",Spektrum Home
-https://cdn.mediaklikk.org:2082/spektrumhome_0YjMxUjMyMTM.m3u8
+https://cdn.mediaklikk.org:2082/spektrumhome_00gNyETN4UTM.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Magyar TV",Sport 1
 http://46.149.191.217:9005/play/a017
 #EXTINF:-1 label="Dragonhall" tvg-name="Dragonhall+" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.b3f75HyoH2Sek-P1LzQ6YQAAAA?pid=Api&P=0&h=180" tvg-id="tv.dragonhall.hu" tvg-country="HU" group-title="Magyar TV",Dragonhall+ 20:00
