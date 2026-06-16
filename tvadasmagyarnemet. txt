@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.g,https://worker-9dd4.onrender.com/guide.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz”
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz”
 #PLAYLIST:TV Es Radio adasok
 
 #EXTINF:-1 label="TV2" tvg-name="TV2" tvg-logo="https://media.port.hu/images/001/707/100x100/231.jpg" tvg-id="tv2.hu" tvg-country="HU" group-title="Magyar TV",TV2
