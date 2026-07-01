@@ -41,10 +41,18 @@ https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/pl
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="Film.Gold" tvg-id="Film.Gold.de" group-title="Német" tvg-logo="https://filmgold-tv.de/wp-content/uploads/2026/05/logofg.svg",Film Gold
 https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pro7maxx" tvg-id="pro7maxx.de" group-title="Német" tvg-logo="https://images.seeklogo.com/logo-png/31/1/pro-sieben-maxx-logo-png_seeklogo-314914.png",7maxx
+https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" group-title="Német" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.3owimM43_M4o1eVz2vGyZQHaEK?pid=Api&P=0&h=180",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 group-title="Német" ,ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="sat1.de" group-title="Német" ,SAT.1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="kabeleins.de" roup-title="Német" ,Kabel Eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" roup-title="Német" ,RTL Zwei
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Német" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Zene" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
