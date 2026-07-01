@@ -139,6 +139,8 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 #EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" group-title="Zene",Totalmusic 80s (720p)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="NavahangTV.fi@SD" group-title="Zene",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Duna.hu@SD" tvg-logo="https://30a-tv.com/30a/wp-content/uploads/2016/05/30atvlogoapril2016-512.png" group-title="Angol",30A TV
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/250px-CGTN_Documentary_logo.png"  "group-title="Angol",CGTN DOCUMENTARY FHD
@@ -161,6 +163,11 @@ https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.0TvmXs4QKNb0dpLXL6SPZgHaE9?pid=Api&P=0&h=180" group-title="Francia",travelxp
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
+#EXTINF:-1 tvg-id="STARChannel.fi@SD" group-title="Finn",STAR Channel (Finland) (720p)
+https://live-fi.tvkaista.net/star-channel/live.m3u8
+#EXTINF:-1 tvg-id="MTV3.fi@SD" group-title="Finn",MTV3 (720p)
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+
 
 #EXTINF:-1 radio="true" tvg-logo="https://www.liveradio.ie/files/images/106595/petofi.png" group-title="Magyar Rádió", Petofi Rádió
 https://icast.connectmedia.hu/4738/mr2.mp3
