@@ -16,7 +16,7 @@ http://46.149.191.217:9005/play/a01t
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="https://online-radio.hu/wp-content/uploads/2023/02/oxygen-music.png" tvg-id="" tvg-country="HU" group-title="Magyar TV",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="m2.HD.hu" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Magyar TV",M2
-http://46.149.191.217:9005/play/a021
+http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-id="m4.hu" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.g_8mBFoiA3ouqFS5_cYdlwHaHa?pid=Api&P=0&h=180" tvg-country="HU" group-title="Magyar TV",M4 Sport
 https://cdn.mediaklikk.org:2082/m4_00gNyETN4UTM.m3u8
 #EXTINF:-1 tvg-id="m5.hu" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Magyar TV",M5
@@ -32,7 +32,7 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6996/index.m3u8
 #EXTINF:-1 tvg-id="FilmBoxStars.nl@Hungary" tvg-logo="https://i.imgur.com/eZFdHbR.png" group-title="Magyar TV",FilmBox Stars [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/7045/index.m3u8
 #EXTINF:-1 label="Dun" tvg-name="Duna TV" tvg-logo="https://i.imgur.com/oPbsSlp.png" tvg-id="Duna.hu" tvg-country="HU" group-title="Magyar TV",Duna TV
-https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+http://88.212.15.19/live/duna_hun/index.m3u8
 #EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ftwRf05XOoUwM_c2jcOQwgHaHa?pid=Api&P=0&h=180" tvg-id="BPEUTV.hu" tvg-country="HU" group-title="Magyar TV",Budapest Európa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" tvg-id="BonumTV.hu" tvg-country="HU" group-title="Magyar TV",EWTN TV
@@ -65,6 +65,8 @@ https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="Das.Erste.de" group-title="Német" tvg-logo="https://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-facebook1200_d5fe7a.jpg",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="Film.Gold" tvg-id="Film.Gold.de" group-title="Német" tvg-logo="https://filmgold-tv.de/wp-content/uploads/2026/05/logofg.svg",Film Gold
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" group-title="Német" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.3owimM43_M4o1eVz2vGyZQHaEK?pid=Api&P=0&h=180",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Német" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
